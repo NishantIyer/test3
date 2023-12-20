@@ -22,7 +22,7 @@ export function Feature({ text, icon }) {
 
 /** @type {{ key: string; icon: React.FC }[]} */
 const FEATURES_LIST = [
-  { key: "lightweight", icon: <LightweightIcon /> },
+
   { key: "edge", icon: <EdgeInspiredIcon /> },
   { key: "latency", icon: <LatencyReductionIcon /> },
   { key: "remote", icon: <RemoteLocalIcon /> },
