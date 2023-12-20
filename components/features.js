@@ -4,7 +4,6 @@ import useLocalesMap from "./use-locales-map";
 import { featuresMap, titleMap } from "../translations/text";
 
 import ComputeCreditsIcon from "../components/icons/compute-credits";
-import LightweightIcon from "../components/icons/lightweighticon";
 import EdgeInspiredIcon from "../components/icons/edgeinspired";
 import LatencyReductionIcon from "../components/icons/latencyreduction";
 import RemoteLocalIcon from "../components/icons/remote-local";
